@@ -1,0 +1,17 @@
+pandas
+numpy
+folium
+flask
+ensure
+python-box==6.0.2
+matplotlib
+numpy
+plotly
+pandas
+scikit-learn
+seaborn
+black
+flask
+lint
+xgboost
+-e .
